@@ -1,2 +1,2 @@
-# google-chrome-plugin
-google chrome plugin tutorial
+# google chrome plugin tutorial
+settings > extensions > enter developer mode
